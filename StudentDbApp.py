@@ -1,3 +1,6 @@
+''' Brandon Kleinman - 2291703
+  Assignment 3 - Student Database
+ '''
 import sqlite3
 import csv
 import re
